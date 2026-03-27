@@ -76,7 +76,7 @@ min_hand_detection_confidence=0.8   # Lower = detects more but less accurate
 ## 🗺️ Roadmap
 
 - [x] Index finger tracker
-- [ ] All finger tracker
+- [x] All finger tracker
 - [ ] Gesture recognition (thumbs up, peace sign, etc.)
 - [ ] Mouse control using finger
 - [ ] Two-hand gesture detection
